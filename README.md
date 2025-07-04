@@ -19,7 +19,7 @@ A **Spring Boot**-based system managing trainers and gym classes, integrating **
 
 📫 Connect With Me
 - **GitHub:** [github.com/Ruukshan](https://github.com/Ruukshan)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [linkedin.com/in/rukshan-induwara-a29020326/](https://www.linkedin.com/in/rukshan-induwara-a29020326/)
 - **Email:** rukshaninduwara123@gmail.com
 
 ### Thanks for visiting my profile! 🚀
