@@ -9,9 +9,7 @@
 </h3>
 
 <div align="center">
-  
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ruukshan&theme=radical&no-frame=true&margin-w=15&row=2&column=4)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=ruukshan&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophy" />
 </div>
 
 <br/>
