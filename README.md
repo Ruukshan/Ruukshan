@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Full-Stack+Developer;Security+Enthusiast;Scalable+Architecture+Designer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Co-Founder+%40+Zyndicate+It+Solutions;Full-Stack+Developer;Final+Year+Undergraduate;Tech+Lead+%26+Mentor;" />
 </h3>
 
 <div align="center">
@@ -18,15 +18,17 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A-N-I Loan Management System**
+ 🔭 I’m currently working on **Smart Career Pathway Recommendation System (ML Research)** & building **Zyndicate It Solutions**
  
- 🌱 I’m currently learning **Laravel, SpringBoot, React, MERN Stack, Python**
+ 🌱 I’m currently refining **Vue.js 3, Vuetify, Firebase, and Advanced Laravel Patterns**
  
- 👯 I’m looking to collaborate on **Industry-level projects with innovative teams**
+ 💼 Recent Experience **Intern Software Engineer @ GTS Active Pvt Ltd (Leading POS & Loan Management Projects)**
  
- 🤔 I'm looking for help with **Open Source Contributions**
+ 👯 I’m looking to collaborate on **Scalable Web Applications & University Group Projects**
  
- 💬 Ask me about **Full-stack development, security best practices, system architecture**
+ 🤔 I'm looking for help with **Integrating LLMs into legacy web systems**
+ 
+ 💬 Ask me about **Laravel Jetstream, Vue.js Architecture, Thermal Printer Integrations, & System Deployment**
  
  📫 How to reach me **rukshaninduwara123@gmail.com**
  
@@ -44,20 +46,20 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Development
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="vuetify"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" alt="livewire"/>
   </a>
 </p>
 
@@ -67,23 +69,26 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="springboot"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/3o7aD2sa1P15Q76Cxi/giphy.gif" width="30"> Databases
+### <img src="https://media.giphy.com/media/3o7aD2sa1P15Q76Cxi/giphy.gif" width="30"> Databases & Deployment
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+  </a>
+  <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="hostinger"/>
   </a>
 </p>
 
@@ -97,9 +102,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
 </p>
 
@@ -151,9 +153,6 @@
 <br/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> <b>Recent Activity</b>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br/>
 
