@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Co-Founder+%40+Zyndicate+It+Solutions;Full-Stack+Developer;Final+Year+Undergraduate;Tech+Lead+%26+Mentor;" />
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ruukshan&theme=radical&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ruukshan" />
   </a>
-</p>
+</p> -->
 
 <br/>
 
