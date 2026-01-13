@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruukshan&theme=radical&no-frame=true&margin-w=15" alt="ruukshan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ruukshan&theme=radical&no-frame=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ruukshan" />
   </a>
 </p>
 
